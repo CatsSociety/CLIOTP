@@ -7,7 +7,7 @@ Gestor de códigos TOTP (RFC 6238) para la terminal, con bóveda cifrada
 
 ```bash
 sudo dnf install pipx                 # Fedora
-pipx install git+https://github.com/USUARIO/cliotp.git
+pipx install git+https://github.com/CatsSociety/CLIOTP.git
 # desarrollo local (cambios al código se reflejan al instante):
 pipx install --editable .
 ```
